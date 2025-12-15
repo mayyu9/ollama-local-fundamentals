@@ -1,0 +1,5 @@
+specify the exact model name in the params
+example if we downloaded llama3.2:1b and trying to call using llama3.2. then ollama by default points to the latest which is not downloaded so it errors out saying not found.
+
+verify the url is not having https
+
