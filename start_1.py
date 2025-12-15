@@ -36,7 +36,7 @@ url = "http://localhost:11434/api/generate"
 
 data = {
     "model": "llama3.2:1b",
-    "prompt": "Tells me a short story and make it funny"
+    "prompt": "provide some basic yoga asanas for beginer"
 }
 
 #response = requests.post(url, json=payLoad, stream=True )
